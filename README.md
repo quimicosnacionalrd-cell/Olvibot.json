@@ -1,0 +1,2 @@
+# Olvibot.json
+OLVI bot
